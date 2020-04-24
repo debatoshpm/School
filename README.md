@@ -1,2 +1,2 @@
 # School
-Test
+School Page Project
