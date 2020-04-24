@@ -1,0 +1,26 @@
+.initials{
+    color: coral;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.item{
+    color: white;
+    text-align: center;
+}
+
+.item:hover{
+    color: coral;
+    text-decoration: none;
+}
+
+#img{
+    text-align: center;
+}
+
+#app{
+    background-color: coral;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
